@@ -1,7 +1,7 @@
 # HTTPnNetwork
 
-1. [웹 & 네트워크 기본](network\1.md)   
-2. [프로토콜 HTTP](network\2.md)   
+1. [웹 & 네트워크 기본](\network\1.md)   
+2. [프로토콜 HTTP](\network\2.md)   
 3. [HTTP 메시지](network\3.md)   
 4. [HTTP 상태 코드](network\4.md)   
 5. [HTTP-웹서버 연계](network\5.md)   

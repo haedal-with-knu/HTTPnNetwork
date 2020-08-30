@@ -1,7 +1,5 @@
 # HTTPnNetwork
 
-# HTTP-Network
-
 1. [웹 & 네트워크 기본]()   
 2. [프로토콜 HTTP]()   
 3. [HTTP 메시지]()   
